@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/FoodSandhya/static/css/main.5c273ed1.css",
+    "main.js": "/FoodSandhya/static/js/main.7aed7799.js",
+    "index.html": "/FoodSandhya/index.html",
+    "main.5c273ed1.css.map": "/FoodSandhya/static/css/main.5c273ed1.css.map",
+    "main.7aed7799.js.map": "/FoodSandhya/static/js/main.7aed7799.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c273ed1.css",
+    "static/js/main.7aed7799.js"
+  ]
+}
